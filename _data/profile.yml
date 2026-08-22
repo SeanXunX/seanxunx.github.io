@@ -24,10 +24,10 @@ short_bio: >-
     <strong>self-evolving LLM agents</strong>, <strong>agent memory</strong>, and <strong>agentic reinforcement learning</strong>.
   </p>
   <p>
-    I am currently a research intern at the <strong>NUS LV Lab</strong>, advised by <strong>Prof. Shuicheng Yan</strong>.
-    My recent work explores how agents can learn from experience through coordinated policy learning and memory updates.
+    Most recently, I was a research intern at the <strong>NUS LV Lab</strong>, advised by <strong>Prof. Shuicheng Yan</strong>,
+    where I studied how agents can learn from experience through coordinated policy learning and memory updates.
     Previously, I worked on latent memory for long-context reasoning at the <strong>FDU FVL Lab</strong> and on
-    LLM-based AIOps agents at <strong>Xiaohongshu (RedNote)</strong>.
+    LLM agents as an <strong>LLM Agent Development Intern</strong> at <strong>Xiaohongshu (RedNote)</strong>.
   </p>
 
 # Add a portrait here when you have a preferred academic headshot.
@@ -37,7 +37,7 @@ education:
 - name: Fudan University
   logo: /assets/images/badges/Fudan_University_Logo.svg
   dept: School of Computer Science
-  position: B.S. in Computer Science · GPA 3.7/4.0
+  position: B.S. in Computer Science
   date: Sep. 2023 - Jun. 2027
 
 experience:
@@ -45,11 +45,10 @@ experience:
   logo: /assets/images/badges/nus.png
   dept: Advised by Prof. Shuicheng Yan
   position: Research Intern · Self-Evolving Agents
-  date: Mar. 2026 - Present
+  date: Mar. 2026 - Jul. 2026
 - name: Xiaohongshu (RedNote)
   logo: /assets/images/badges/xiaohongshu-seeklogo.svg
-  dept: LLM AIOps
-  position: Software Engineering Intern
+  position: LLM Agent Development Intern
   date: Nov. 2025 - Feb. 2026
 - name: FDU FVL Lab
   logo: /assets/images/badges/Fudan_University_Logo.svg
