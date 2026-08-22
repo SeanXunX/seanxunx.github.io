@@ -55,6 +55,21 @@ h1, h2, h3, h4, h5, h6,
     line-break: unset;
 }
 
+.institution-badge {
+    align-items: center;
+    background: #eef2f7;
+    border-radius: 4px;
+    color: #1b365d;
+    display: inline-flex;
+    flex: 0 0 28px;
+    font-family: "Source Code Pro", monospace;
+    font-size: 8px;
+    font-weight: 700;
+    height: 18px;
+    justify-content: center;
+    letter-spacing: -0.04em;
+}
+
 .no-break {
     white-space: nowrap;
 }

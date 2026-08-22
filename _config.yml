@@ -13,7 +13,10 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-baseurl: "" # the subpath of your site, e.g. /blog
+title: "Xun Xu"
+description: "Academic homepage of Xun Xu, a Fudan CS undergraduate researching self-evolving agents, agent memory, and agentic reinforcement learning."
+url: "https://seanxunx.github.io"
+baseurl: ""
 
 # Build settings
 markdown: kramdown
