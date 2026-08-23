@@ -21,13 +21,13 @@ short_bio_text_justify: false
 short_bio: >-
   <p>
     I am a Computer Science undergraduate at <strong>Fudan University</strong>. My research interests center on
-    <strong>self-evolving LLM agents</strong>, <strong>agent memory</strong>, and <strong>agentic reinforcement learning</strong>.
+    <strong>self-evolving LLM agents</strong>, agent memory, and agentic reinforcement learning.
   </p>
   <p>
-    Most recently, I was a research intern at the <strong>NUS LV Lab</strong>, advised by <strong>Prof. Shuicheng Yan</strong>,
+    Most recently, I was a research intern at the <strong>NUS LV Lab</strong>, advised by Prof. Shuicheng Yan,
     where I studied how agents can learn from experience through coordinated policy learning and memory updates.
     Previously, I worked on latent memory for long-context reasoning at the <strong>FDU FVL Lab</strong> and on
-    LLM agents as an <strong>LLM Agent Development Intern</strong> at <strong>Xiaohongshu (RedNote)</strong>.
+    LLM agents as an LLM Agent Development Intern at <strong>Xiaohongshu (RedNote)</strong>.
   </p>
 
 # Add a portrait here when you have a preferred academic headshot.
