@@ -4,6 +4,7 @@ date: 2026-09-14 00:00:00 +0800
 selected: true
 pub: ""
 pub_date: ""
+cover: /assets/images/covers/vgopd_frame.png
 abstract: >-
   A multi-expert on-policy distillation framework for scientific reasoning that uses verifier feedback to decide which expert should teach each token. VG-OPD localizes and weights expert supervision along the student's reasoning trajectory, improving 4B and 8B students across seven benchmarks.
 authors:
