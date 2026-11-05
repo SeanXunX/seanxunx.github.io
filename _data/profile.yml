@@ -20,8 +20,19 @@ github: seanxunx
 short_bio_text_justify: false
 short_bio: >-
   <p>
-    I am a Computer Science undergraduate at <strong>Fudan University</strong>. My research interests center on
-    <strong>self-evolving LLM agents</strong>, agent memory, and agentic reinforcement learning.
+    I am a Computer Science undergraduate at <strong>Fudan University</strong>. My research interests lie in
+    <strong>LLM-based Agentic Systems</strong>, which I approach from two closely intertwined perspectives:
+    <strong>developing the intelligence at their core and designing the infrastructure around them</strong>.
+  </p>
+  <p>
+    On the model side, I am interested in developing learning algorithms and model architectures that advance
+    the capabilities of intelligent agents. On the infrastructure side, I explore the principles and systems
+    that govern how agents execute, interact with their environments, manage information, and coordinate computation.
+  </p>
+  <p>
+    These two perspectives are inherently coupled: advances in model capabilities create new possibilities
+    and demands for agent infrastructure, while the challenges and feedback arising from agent execution,
+    in turn, drive new developments in model architectures and learning algorithms.
   </p>
   <p>
     Most recently, I was a research intern at the <strong>NUS LV Lab</strong>, advised by Prof. Shuicheng Yan,
