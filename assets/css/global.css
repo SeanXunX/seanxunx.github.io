@@ -7,6 +7,7 @@
     --color-muted: #68727C;
     --color-border: #E2E6EA;
     --color-accent: #245987;
+    --color-highlight: #2676C4;
     --color-accent-hover: #173D5F;
     --color-accent-soft: #E7EFF7;
     --color-shadow: rgba(31, 43, 54, 0.07);
@@ -99,7 +100,7 @@ hr {
 }
 
 .text-profile-bio strong {
-    color: var(--color-accent);
+    color: var(--color-highlight);
     font-weight: inherit;
 }
 

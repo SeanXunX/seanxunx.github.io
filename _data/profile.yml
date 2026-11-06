@@ -1,10 +1,10 @@
 primary_name: "Xun Xu"
-secondary_name: "Sean"
 navbar_name: "Xun Xu"
 
 positions:
 - name: B.S. Student in Computer Science
 - name: Fudan University
+  logo: /assets/images/badges/Fudan_University_Logo.svg
 
 
 email: "seanxunx@outlook.com"
@@ -28,8 +28,6 @@ short_bio: >-
     On the model side, I am interested in developing learning algorithms and model architectures that advance
     the capabilities of intelligent agents. On the infrastructure side, I explore the principles and systems
     that govern how agents execute, interact with their environments, manage information, and coordinate computation.
-  </p>
-  <p>
     These two perspectives are inherently coupled: advances in model capabilities create new possibilities
     and demands for agent infrastructure, while the challenges and feedback arising from agent execution,
     in turn, drive new developments in model architectures and learning algorithms.
@@ -69,4 +67,4 @@ experience:
 
 awards:
 - name: Outstanding Student Award with Scholarship
-  date: 2025–2026
+  date: 2024–2025
